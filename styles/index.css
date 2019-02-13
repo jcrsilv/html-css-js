@@ -1,0 +1,28 @@
+h1 {
+  text-align: center
+}
+
+div {
+  color: red;
+}
+
+.tshirt {
+  color: purple;
+}
+
+.pants {
+  color: green;
+  margin-bottom: 50px;
+}
+
+.weather-info {
+  border: 1px solid black;
+}
+
+#counter {
+  margin-top: 50px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
